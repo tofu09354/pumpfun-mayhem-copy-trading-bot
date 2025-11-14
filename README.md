@@ -46,7 +46,7 @@ Native integration with Raydium DEX provides:
 
 ## Requirements
 
-- Node.js 18+ or Python 3.10+
+- Node.js 20+
 - Solana wallet with sufficient SOL balance
 - RPC endpoint (public or private)
 - List of target wallet addresses to copy
@@ -68,18 +68,6 @@ npm install
 5. Configure position sizing (percentage or fixed amount)
 6. Set risk management parameters
 7. Configure trade filters
-
-## Usage
-
-```bash
-npm start 
-```
-
-## Sample Transaction
-
-```
-Sample TX: [Your transaction hash will be added here]
-```
 
 ## How It Works
 
